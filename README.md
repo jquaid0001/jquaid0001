@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to systems engineering or SwiftUI (yikes...)  
   
 
-- ⚡ Fun fact: I use tabs over spaces, sorry Richard.   
+- ⚡ Fun fact: I use tabs and spaces, sorry Richard.   
   
 
 <br/>  
@@ -87,11 +87,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jquaid0001&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
