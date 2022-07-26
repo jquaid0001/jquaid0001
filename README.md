@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to systems engineering or SwiftUI (yikes...)  
   
 
-- ⚡ Fun fact: I use tabs and spaces, sorry Richard.   
+- ⚡ Fun fact: I once bowled a 279 in league.
   
 
 <br/>  
