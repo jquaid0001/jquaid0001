@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on more things than can be listed here...  
   
 
-- 🌱 I’m currently learning JavaScript, Data Structures and Algorithms, and Linear Algebra  
+- 🌱 I’m currently learning JavaScript, React, Data Structures and Algorithms, and Numerical Methods  
   
 
-- ❓ Ask me about anything related to systems engineering or SwiftUI (yikes...)  
+- ❓ Ask me about anything related to systems engineering or SwiftUI  
   
 
 - ⚡ Fun fact: I once bowled a 279 in league.
